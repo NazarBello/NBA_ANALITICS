@@ -1,2 +1,2 @@
 # NBA_ANALITICS
-a small nba analitics app 
+a small nba analytics app 
